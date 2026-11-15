@@ -18,7 +18,7 @@ librería **Irvine32** sobre Windows.
 1. [Práctica 1: Macros](#práctica-1-macros)
    - 📄 Código: [`practica1-macros/macros.asm`](https://github.com/josehazielvalenzuelasilva/practicasU3-lenguajes-interfaz/blob/main/01%20-%20Procedimientos/01%20-%20Procedimientos/Source.asm)
 2. [Práctica 2: Procedimientos](#práctica-2-procedimientos)
-   - 📄 Código: [`practica2-procedimientos/procedimientos.asm`](./practica2-procedimientos/procedimientos.asm)
+   - 📄 Código: [`practica2-procedimientos/procedimientos.asm`](https://github.com/josehazielvalenzuelasilva/practicasU3-lenguajes-interfaz/blob/main/05%20-%20Macros/05%20-%20Macros/Source.asm)
 
 ---
 
