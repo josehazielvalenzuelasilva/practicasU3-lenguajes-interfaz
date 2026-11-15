@@ -13,12 +13,12 @@ librería **Irvine32** sobre Windows.
 | **Horario**  | 10:00 - 11:00                  |
 | **Docente**  | Dr. José Luis Medina Jiménez   |
 
-## Contenido
+## 📑 Índice
 
-| # | Práctica        | Carpeta                          | Tema             |
-|---|-----------------|----------------------------------|------------------|
-| 1 | Macros          | [`practica1-macros/`](./practica1-macros/)               | `MACRO ... ENDM` |
-| 2 | Procedimientos  | [`practica2-procedimientos/`](./practica2-procedimientos/) | `PROC ... ENDP` + `call`/`ret` |
+1. [Práctica 1: Macros](#práctica-1-macros)
+   - 📄 Código: [`practica1-macros/macros.asm`](./practica1-macros/macros.asm)
+2. [Práctica 2: Procedimientos](#práctica-2-procedimientos)
+   - 📄 Código: [`practica2-procedimientos/procedimientos.asm`](./practica2-procedimientos/procedimientos.asm)
 
 ---
 
